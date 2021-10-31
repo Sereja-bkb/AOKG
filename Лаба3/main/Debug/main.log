@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(5,10): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(61,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(62,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(64,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(65,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Camera.cpp(66,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\main.cpp(19,22): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\main.cpp(159,41): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода...
+  main.vcxproj -> C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба3\main\Debug\Laba1.exe
