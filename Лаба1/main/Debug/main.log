@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\АиОКГ\Лаба1\main\main.cpp(48,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  main.vcxproj -> F:\АиОКГ\Лаба1\main\Debug\Laba1.exe

@@ -1,0 +1,2 @@
+C:/Users/olga-/Desktop/Учеба/3 курс/1 семестр/АиОКГ/Лаба1/main/GLM/GLM/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/olga-/Desktop/Учеба/3 курс/1 семестр/АиОКГ/Лаба1/main/GLM/GLM/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
