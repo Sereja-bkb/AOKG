@@ -1,0 +1,6 @@
+F:\АиОКГ\Лаба1\main\Debug\Laba1.exe
+F:\АиОКГ\Лаба1\main\Debug\Laba1.pdb
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба1\main\Debug\Laba1.exe
+C:\Users\olga-\Desktop\Учеба\3 курс\1 семестр\АиОКГ\Лаба2\main\Debug\Laba1.exe
+F:\АиОКГ\Лаба2\main\Debug\Laba1.exe
+F:\АиОКГ\Лаба2\main\Debug\Laba1.pdb
